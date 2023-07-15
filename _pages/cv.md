@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Bachelor's Degree in Informatics Engineering, Catalonia's Politechnical University (UPC), 2023
-* Bachelor's Degree in Mathematics, Catalonia's Politechnical University (UPC), 2023
+* Bachelor's Degree in Informatics Engineering, Polytechnic University of Catalonia (UPC), 2023
+* Bachelor's Degree in Mathematics, Polytechnic University of Catalonia (UPC), 2023
 
 Work experience
 ======
