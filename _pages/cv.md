@@ -11,49 +11,62 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor's Degree in Informatics Engineering, Catalonia's Politechnical University (UPC), 2023
+* Bachelor's Degree in Mathematics, Catalonia's Politechnical University (UPC), 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022-2023: Student Intern
+  * Human Sensing Lab, Carnegie Mellon University (CMU)
+  * Pittsburgh, USA
+  * Assisting in machine learning and computer graphics research with Professor Fernando de la Torre.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2022: Hardware Developer Intern
+  * Semidynamics
+  * Barcelona, Spain
+  * RISC-V chip design using SystemVerilog. My job was to help implement instructions and design a vectorized computation unit, while keeping the most optimal, small and fast design possible.
 
-Publications
+* Summer 2021: Software Developer Intern
+  * Esperanto Technologies
+  * The company works on high-speed chips specialized on Artificial Intelligence. I worked gathering and visualizing data extracted from a compiler, using it to detect possible bugs and performance flaws.
+
+* Summer 2020, Summer 2019: Software Developer Intern
+  * McNeel Europe
+  * We developed architecture-related plug-ins for AutoCAD and Rhino. I mostly programmed in C++, fixing bugs and implement new features requested by users, in a collaborative environment with other programmers.
+
+
+Languages
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+* English: C2
+* Spanish: Native
+* Catalan: Native
+
+Programming Languages
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* C++
+* Java
+* Python
+* x86
+* SystemVerilog
+* C#
+* Kotlin
+* SQL
+* R
+* Julia
+
+Developing Environments
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* git
+* Linux
+* Visual Studio
+* Eclipse
+* Matlab
+* Android Studio
+
+Other Software
 ======
-* Currently signed in to 43 different slack teams
+* Docker
+* Blender
+* Photoshop
+* Rhino
