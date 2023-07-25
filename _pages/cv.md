@@ -58,6 +58,8 @@ Programming Languages
 Developing Environments
 ======
 * git
+* make
+* CMake
 * Linux
 * Visual Studio
 * Eclipse
